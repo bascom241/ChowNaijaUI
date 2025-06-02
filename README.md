@@ -79,8 +79,6 @@ Data Retrieval
 
 🔗 Backend repository: (https://github.com/bascom241/ChownaijaServer.git)
 
-📸 Screenshots
-(Add your mockup screenshots here!)
 
 🙌 Acknowledgments
 This project is the first app of my 10 Apps in 100 Days Challenge — Day 10. It has been an incredible journey, tackling real-world problems and learning new technologies.
