@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "shelfieapp",
     "name": "RN1",
     "slug": "RN1",
     "version": "1.0.0",
@@ -24,6 +25,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-router",
+      "expo-secure-store"
+    ]
   }
 }
